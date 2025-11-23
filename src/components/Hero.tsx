@@ -19,8 +19,8 @@ export default function Hero() {
                         The Future of Disc Golf is <span className="text-gradient">On-Chain</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-3xl mx-auto">
-                        Compete, Earn, and Connect with the first Nostr-powered Disc Golf wallet.
-                        Experience instant payouts and true ownership.
+                        Compete, Earn, and Connect with the next generation of Disc Golf.
+                        Experience instant payouts and seamless play without the hassle.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">

@@ -7,17 +7,17 @@ const features = [
     {
         icon: <Zap className="w-12 h-12 text-brand-gold" />,
         title: "Instant Payouts",
-        description: "Settlements at the speed of light. No more waiting for prize money.",
+        description: "Get paid immediately after your round. No waiting for bank transfers.",
     },
     {
         icon: <Globe className="w-12 h-12 text-brand-blue" />,
-        title: "Nostr Identity",
-        description: "Connect with your universal Nostr key. Your reputation travels with you.",
+        title: "One Account, Anywhere",
+        description: "Your reputation travels with you. Sign in once, play anywhere, no email needed.",
     },
     {
         icon: <Shield className="w-12 h-12 text-brand-green" />,
-        title: "Self-Custodial",
-        description: "Your keys, your coins. Full control over your funds and data.",
+        title: "Private & Instant",
+        description: "Powered by digital cash. Transactions are private, instant, and final.",
     },
 ];
 
