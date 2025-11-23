@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 import InstallGuide from "@/components/InstallGuide";
 import Nip05Teaser from "@/components/Nip05Teaser";
+import LearnMore from "@/components/LearnMore";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
       <Features />
       <InstallGuide />
       <Nip05Teaser />
+      <LearnMore />
       <Footer />
     </main>
   );
