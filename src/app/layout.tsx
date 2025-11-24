@@ -14,12 +14,12 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://onchaindiscgolf.com'),
-  title: "OnChainDiscGolf - The Future of Disc Golf",
+  title: "On-Chain Disc Golf - The Future of Disc Golf",
   description: "Compete, Earn, and Connect with the first Nostr-powered Disc Golf wallet. Experience instant payouts and seamless play with Bitcoin Lightning.",
   keywords: ["disc golf", "bitcoin", "lightning network", "nostr", "cashu", "crypto", "disc golf wallet", "instant payouts", "web3 sports"],
-  authors: [{ name: "OnChainDiscGolf" }],
-  creator: "OnChainDiscGolf",
-  publisher: "OnChainDiscGolf",
+  authors: [{ name: "On-Chain Disc Golf" }],
+  creator: "On-Chain Disc Golf",
+  publisher: "On-Chain Disc Golf",
   formatDetection: {
     email: false,
     address: false,
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'OnChainDiscGolf',
+    title: 'On-Chain Disc Golf',
   },
   openGraph: {
     type: 'website',
@@ -43,14 +43,14 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'OnChainDiscGolf - The Future of Disc Golf',
+        alt: 'On-Chain Disc Golf - The Future of Disc Golf',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'OnChainDiscGolf - The Future of Disc Golf',
-    description: 'Compete, Earn, and Connect with Bitcoin-powered disc golf. Instant payouts, no hassle.',
+    title: 'On-Chain Disc Golf - The Future of Disc Golf',
+    description: 'Compete with friends, track scores, and win Bitcoin instantly. The future of disc golf is on-chain.',
     images: ['/og-image.png'],
     creator: '@onchaindiscgolf', // TODO: Update with actual Twitter handle
   },

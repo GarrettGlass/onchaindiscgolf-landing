@@ -9,7 +9,7 @@ export default function WhyOnChain() {
             <div className="container mx-auto px-4">
                 <div className="text-center mb-16">
                     <h2 className="text-3xl md:text-5xl font-heading font-bold mb-6">
-                        Why OnChain Disc Golf?
+                        Why On-Chain Disc Golf?
                     </h2>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto">
                         A better way to play cash games—for everyone.
@@ -68,7 +68,7 @@ export default function WhyOnChain() {
                         viewport={{ once: true }}
                         className="bg-gradient-to-br from-brand-primary/10 to-brand-secondary/10 border border-brand-primary/30 rounded-2xl p-8"
                     >
-                        <h3 className="text-2xl font-heading font-bold mb-6 text-center">OnChain Way</h3>
+                        <h3 className="text-2xl font-heading font-bold mb-6 text-center">On-Chain Way</h3>
 
                         <div className="space-y-4">
                             <div className="flex items-start gap-3">

@@ -12,7 +12,7 @@ export default function InstallGuide() {
                         Install the App
                     </h2>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-                        For the best experience, add OnChainDiscGolf to your home screen.
+                        For the best experience, add On-Chain Disc Golf to your home screen.
                         It works just like a native app, but without the app store.
                     </p>
                 </div>

@@ -11,7 +11,7 @@ export default function Footer() {
             <div className="container mx-auto px-4">
                 <div className="flex flex-col md:flex-row justify-between items-center gap-6">
                     <div className="text-center md:text-left">
-                        <h4 className="text-xl font-heading font-bold text-white mb-1">OnChainDiscGolf</h4>
+                        <h4 className="text-xl font-heading font-bold text-white mb-1">On-Chain Disc Golf</h4>
                         <p className="text-gray-500 text-sm">© 2025 All rights reserved.</p>
                     </div>
 

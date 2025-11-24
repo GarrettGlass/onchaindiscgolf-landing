@@ -112,7 +112,7 @@ export default function LearnMore() {
                         Want to Learn More?
                     </h3>
                     <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-                        Dive deeper into the open protocols and technologies that power OnChainDiscGolf.
+                        Dive deeper into the open protocols and technologies that power On-Chain Disc Golf.
                     </p>
                 </div>
 

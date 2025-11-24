@@ -1,6 +1,6 @@
 {
-    "name": "OnChainDiscGolf",
-    "short_name": "OnChainDG",
+    "name": "On-Chain Disc Golf",
+    "short_name": "On-Chain DG",
     "description": "Compete, Earn, and Connect with the first Nostr-powered Disc Golf wallet.",
     "start_url": "https://app.onchaindiscgolf.com",
     "display": "standalone",

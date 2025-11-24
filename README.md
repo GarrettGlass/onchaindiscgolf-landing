@@ -1,10 +1,10 @@
-# OnChainDiscGolf Landing Page
+# On-Chain Disc Golf Landing Page
 
-The official landing page for [OnChainDiscGolf](https://onchaindiscgolf.com) - the future of disc golf powered by Bitcoin, Lightning Network, Cashu, and Nostr.
+The official landing page for [On-Chain Disc Golf](https://onchaindiscgolf.com) - the future of disc golf powered by Bitcoin, Lightning Network, Cashu, and Nostr.
 
 ## 🎯 Overview
 
-This is a Next.js-based landing page that serves as the primary entry point for OnChainDiscGolf, educating users about the platform and driving them to the progressive web app at [app.onchaindiscgolf.com](https://app.onchaindiscgolf.com).
+This is a Next.js-based landing page that serves as the primary entry point for On-Chain Disc Golf, educating users about the platform and driving them to the progressive web app at [app.onchaindiscgolf.com](https://app.onchaindiscgolf.com).
 
 ## 🚀 Features
 
@@ -149,7 +149,7 @@ Security headers configured in `vercel.json`:
 
 ## 📄 License
 
-© 2025 OnChainDiscGolf. All rights reserved.
+© 2025 On-Chain Disc Golf. All rights reserved.
 
 ## 🤝 Contributing
 
@@ -168,4 +168,4 @@ This is a public-facing landing page. For contribution guidelines, please contac
 
 ---
 
-Built with ⚡ by the OnChainDiscGolf team
+Built with ⚡ by the On-Chain Disc Golf team

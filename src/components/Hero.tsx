@@ -15,20 +15,27 @@ export default function Hero() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
                 >
-                    <h1 className="text-5xl md:text-7xl font-heading font-bold mb-6">
-                        Play Disc Golf. <span className="text-gradient">Win Bitcoin.</span>
+                    {/* Brand Name - Largest Element */}
+                    <h1 className="text-6xl md:text-8xl lg:text-9xl font-heading font-bold mb-4 md:mb-6 tracking-tight">
+                        <span className="text-gradient">On-Chain</span> Disc Golf
                     </h1>
-                    <p className="text-xl md:text-2xl text-gray-300 mb-10 max-w-3xl mx-auto">
-                        The first disc golf app where you compete with friends, track scores,
-                        and get paid instantly when you win—all through your phone. No accounts
-                        to create, no waiting for payouts, no hassle.
+
+                    {/* Slogan */}
+                    <p className="text-2xl md:text-4xl font-heading font-semibold mb-6 md:mb-8 text-gray-200">
+                        The Future of Disc Golf is On-Chain
                     </p>
 
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+                    {/* Value Proposition */}
+                    <p className="text-lg md:text-xl text-gray-300 mb-8 md:mb-10 max-w-3xl mx-auto">
+                        Compete with friends, track scores, and win Bitcoin instantly—all through your phone.
+                        No accounts, no waiting, no hassle.
+                    </p>
+
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8 md:mb-12">
                         <a
                             href="https://app.onchaindiscgolf.com"
                             className="px-8 py-4 bg-brand-primary hover:bg-emerald-600 text-brand-dark font-bold rounded-full transition-all transform hover:scale-105 flex items-center justify-center gap-2"
-                            aria-label="Launch OnChainDiscGolf App"
+                            aria-label="Launch On-Chain Disc Golf App"
                         >
                             Launch App <ArrowRight className="w-5 h-5" />
                         </a>
@@ -38,7 +45,7 @@ export default function Hero() {
                                 learnMore?.scrollIntoView({ behavior: 'smooth', block: 'start' });
                             }}
                             className="px-8 py-4 border border-brand-secondary text-brand-secondary hover:bg-brand-secondary/10 font-bold rounded-full transition-all flex items-center justify-center gap-2"
-                            aria-label="Learn more about OnChainDiscGolf"
+                            aria-label="Learn more about On-Chain Disc Golf"
                         >
                             Learn More <Download className="w-5 h-5" />
                         </button>
