@@ -12,12 +12,12 @@ const features = [
     {
         icon: <Globe className="w-12 h-12 text-brand-secondary" />,
         title: "Play Without the Paperwork",
-        description: "No email. No password. No personal info. Your phone is your identity. Play at any course with any players—your reputation and balance travel with you automatically.",
+        description: "No email. No password. No personal info. Your phone is your identity. Play at any course with any players—your reputation and your funds travel with you automatically.",
     },
     {
         icon: <Shield className="w-12 h-12 text-brand-primary" />,
         title: "Your Money, Your Control",
-        description: "Your balance can't be frozen, your account can't be closed, and nobody needs to approve your transactions. Like cash in your pocket, but digital and instant.",
+        description: "Send and receive payments directly from your phone. No banks, no delays, no permission needed. Your balance moves with you—simple, fast, and always accessible.",
     },
 ];
 

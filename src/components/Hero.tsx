@@ -51,13 +51,13 @@ export default function Hero() {
 
                     {/* Slogan */}
                     <p className="text-2xl md:text-4xl font-heading font-semibold mb-6 md:mb-8 text-gray-200">
-                        The Future of Disc Golf is On-Chain
+                        The Future of Disc Golf is <span className="text-gradient">On-Chain</span>
                     </p>
 
                     {/* Value Proposition */}
                     <p className="text-lg md:text-xl text-gray-300 mb-8 md:mb-10 max-w-3xl mx-auto">
-                        Compete with friends, track scores, and win Bitcoin instantly—all through your phone.
-                        No accounts, no waiting, no hassle.
+                        Compete with friends, track scores, and split the pot instantly—all through your phone.
+                        Everyone antes up, winners take home Bitcoin. No accounts, no waiting, no hassle.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8 md:mb-12">
