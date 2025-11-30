@@ -11,7 +11,7 @@ const faqs = [
     },
     {
         question: "Is this safe? Where's my money?",
-        answer: "Your money is in your phone, protected by a secret key (like a password, but better). Think of it like cash—if you have your phone, you have your money. No company can freeze or seize it. The app gives you your secret key when you first install it. Keep it safe!"
+        answer: "Your balance is stored as Cashu eCash tokens on your phone, protected by your secret key. Currently, we use a third-party Cashu mint (Minibits) to issue tokens—so you're trusting them to honor redemptions. This is similar to trusting a bank, but with better privacy. We're working toward more self-custodial options. For now: don't store more than you're willing to lose, and always back up your secret key!"
     },
     {
         question: "What if I want to cash out to regular dollars?",

@@ -1,21 +1,21 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Zap, Shield, Globe } from "lucide-react";
+import { Zap, Key, Shield } from "lucide-react";
 
 const features = [
     {
-        icon: <Zap className="w-12 h-12 text-brand-accent" />,
+        icon: <Zap className="w-12 h-12 text-[#F7931A]" />, // Bitcoin orange
         title: "Win = Get Paid. Instantly.",
         description: "Lowest score wins. Money hits your phone the second the round ends. No IOUs, no 'I'll pay you next time', no payment app delays. Just play and get paid.",
     },
     {
-        icon: <Globe className="w-12 h-12 text-brand-secondary" />,
+        icon: <Key className="w-12 h-12 text-[#8B5CF6]" />, // Nostr purple
         title: "Play Without the Paperwork",
-        description: "No email. No password. No personal info. Your phone is your identity. Play at any course with any players—your reputation and your funds travel with you automatically.",
+        description: "No email. No password. No personal info. Your Nostr key is your identity. Play at any course with any players—your reputation and your funds travel with you automatically.",
     },
     {
-        icon: <Shield className="w-12 h-12 text-brand-primary" />,
+        icon: <Shield className="w-12 h-12 text-brand-primary" />, // App emerald
         title: "Your Money, Your Control",
         description: "Send and receive payments directly from your phone. No banks, no delays, no permission needed. Your balance moves with you—simple, fast, and always accessible.",
     },
