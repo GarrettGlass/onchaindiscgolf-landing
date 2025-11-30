@@ -35,8 +35,8 @@ This is a Next.js-based landing page that serves as the primary entry point for 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GarrettGlass/onchaindiscgolf-landing.git
-cd onchaindiscgolf-landing
+git clone https://github.com/OnChainDiscGolf/website.git
+cd website
 ```
 
 2. Install dependencies:
@@ -157,14 +157,14 @@ This is a public-facing landing page. For contribution guidelines, please contac
 
 ## 🔗 Related Projects
 
-- **Main PWA**: [app.onchaindiscgolf.com](https://app.onchaindiscgolf.com)
-- **Documentation**: Coming soon
+- **Main PWA**: [app.onchaindiscgolf.com](https://app.onchaindiscgolf.com) — [GitHub](https://github.com/OnChainDiscGolf/app)
+- **Help Center**: [help.onchaindiscgolf.com](https://help.onchaindiscgolf.com) — [GitHub](https://github.com/OnChainDiscGolf/docs)
 
 ## 📞 Contact
 
 - **Website**: [onchaindiscgolf.com](https://onchaindiscgolf.com)
-- **GitHub**: [GarrettGlass/onchaindiscgolf-landing](https://github.com/GarrettGlass/onchaindiscgolf-landing)
-- **Twitter**: [@onchaindiscgolf](https://twitter.com/onchaindiscgolf) *(TODO: Update with actual handle)*
+- **GitHub**: [OnChainDiscGolf](https://github.com/OnChainDiscGolf)
+- **Twitter**: [@OnChainDiscGolf](https://x.com/OnChainDiscGolf)
 
 ---
 
