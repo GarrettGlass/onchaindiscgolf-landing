@@ -40,7 +40,7 @@ export default function Hero() {
                                     className="absolute left-1/2 -translate-x-1/2 top-full mt-2 w-[90vw] max-w-sm p-4 bg-brand-surface border border-brand-primary/20 rounded-xl shadow-2xl z-50 pointer-events-none"
                                 >
                                     <p className="text-base font-medium text-gray-200 leading-relaxed font-sans normal-case tracking-normal">
-                                        It&apos;s not actually on the Bitcoin chain. We use Lightning and Cashu ;)
+                                        It&apos;s not actually on the Bitcoin chain. We use Lightning via Breez ;)
                                     </p>
                                     {/* Arrow pointing up */}
                                     <div className="absolute left-1/2 -translate-x-1/2 -top-2 w-4 h-4 bg-brand-surface border-t border-l border-brand-primary/20 transform rotate-45" />
@@ -56,8 +56,8 @@ export default function Hero() {
 
                     {/* Value Proposition */}
                     <p className="text-lg md:text-xl text-gray-300 mb-8 md:mb-10 max-w-3xl mx-auto">
-                        Compete with friends, track scores, and split the pot instantly—all through your phone.
-                        Everyone antes up, winners take home Bitcoin. No accounts, no waiting, no hassle.
+                        Compete with friends, track scores, and settle up instantly—all through your phone.
+                        Automatic round settlement with Bitcoin. No accounts, no waiting, no hassle.
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8 md:mb-12">

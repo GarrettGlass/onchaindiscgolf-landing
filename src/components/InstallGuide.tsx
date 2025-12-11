@@ -133,7 +133,7 @@ export default function InstallGuide() {
                                 <li>App creates your player identity automatically (it's like a username, but private)</li>
                                 <li>You'll see a tutorial showing you how to start your first round</li>
                                 <li>Try it out with friends or solo to learn the ropes</li>
-                                <li>Start playing for real stakes whenever you're ready!</li>
+                                <li>Start playing competitive rounds whenever you're ready!</li>
                             </ol>
                         </div>
                     </div>

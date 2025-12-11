@@ -12,7 +12,7 @@ export default function WhyOnChain() {
                         Why On-Chain Disc Golf?
                     </h2>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-                        A better way to play cash games—for everyone.
+                        A better way to play competitive rounds—for everyone.
                     </p>
                 </div>
 
@@ -24,7 +24,7 @@ export default function WhyOnChain() {
                         viewport={{ once: true }}
                         className="bg-brand-surface/50 border border-white/10 rounded-2xl p-8"
                     >
-                        <h3 className="text-2xl font-heading font-bold mb-6 text-center">Traditional Cash Games</h3>
+                        <h3 className="text-2xl font-heading font-bold mb-6 text-center">Traditional Competitive Rounds</h3>
 
                         <div className="space-y-4">
                             <div className="flex items-start gap-3">
@@ -38,7 +38,7 @@ export default function WhyOnChain() {
                             <div className="flex items-start gap-3">
                                 <X className="w-6 h-6 text-red-400 flex-shrink-0 mt-1" />
                                 <div>
-                                    <p className="text-gray-300 font-medium">One person holds the pot</p>
+                                    <p className="text-gray-300 font-medium">One person holds the prize pool</p>
                                     <p className="text-sm text-gray-500">Do you trust them? Do they trust you?</p>
                                 </div>
                             </div>
@@ -46,7 +46,7 @@ export default function WhyOnChain() {
                             <div className="flex items-start gap-3">
                                 <X className="w-6 h-6 text-red-400 flex-shrink-0 mt-1" />
                                 <div>
-                                    <p className="text-gray-300 font-medium">Manual payout after the round</p>
+                                    <p className="text-gray-300 font-medium">Manual settlement after the round</p>
                                     <p className="text-sm text-gray-500">"I'll Venmo you later" = never</p>
                                 </div>
                             </div>
@@ -90,8 +90,8 @@ export default function WhyOnChain() {
                             <div className="flex items-start gap-3">
                                 <Check className="w-6 h-6 text-brand-primary flex-shrink-0 mt-1" />
                                 <div>
-                                    <p className="text-gray-300 font-medium">Instant, automatic payouts</p>
-                                    <p className="text-sm text-gray-400">Winner gets paid when round ends</p>
+                                    <p className="text-gray-300 font-medium">Instant, automatic settlement</p>
+                                    <p className="text-sm text-gray-400">Winner receives funds when round ends</p>
                                 </div>
                             </div>
 
@@ -130,7 +130,7 @@ export default function WhyOnChain() {
                         <div className="flex items-start gap-3">
                             <Check className="w-6 h-6 text-brand-primary flex-shrink-0 mt-1" />
                             <div>
-                                <p className="text-gray-300 font-medium mb-1">Cash games are standard culture</p>
+                                <p className="text-gray-300 font-medium mb-1">Competitive rounds are standard culture</p>
                                 <p className="text-sm text-gray-400">Perfect Bitcoin use case</p>
                             </div>
                         </div>
@@ -166,7 +166,7 @@ export default function WhyOnChain() {
                             <p className="text-brand-accent font-bold mb-2">What's "On-Chain" mean?</p>
                             <p className="text-gray-300 text-sm leading-relaxed">
                                 Traditional money needs banks. Bitcoin money needs math. "On-chain" means your
-                                winnings are secured by Bitcoin's network, not by trusting your buddy to Venmo
+                                funds are secured by Bitcoin's network, not by trusting your buddy to Venmo
                                 you later. It's like having a neutral referee that everyone can verify but nobody controls.
                             </p>
                         </div>

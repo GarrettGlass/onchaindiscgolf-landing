@@ -14,13 +14,13 @@ const steps = [
         icon: <Play className="w-12 h-12 text-brand-secondary" />,
         number: "2",
         title: "Join a Round",
-        description: "Start a new game or join friends. Each player adds an entry fee (as little as $1 in Bitcoin). Play disc golf like you normally would—the app tracks your scores.",
+        description: "Start a new game or join friends. Each player adds a round entry (as little as $1 in Bitcoin). Play disc golf like you normally would—the app tracks your scores.",
     },
     {
         icon: <DollarSign className="w-12 h-12 text-brand-accent" />,
         number: "3",
-        title: "Win & Get Paid",
-        description: "Lowest score wins the pot. Winner gets paid automatically and instantly when the round ends. Cash out anytime to regular dollars, or use it for your next round.",
+        title: "Win & Settle Up",
+        description: "Lowest score wins the prize pool. Settlement happens automatically and instantly when the round ends. Cash out anytime to regular dollars, or use it for your next round.",
     },
 ];
 
@@ -78,7 +78,7 @@ export default function HowItWorks() {
                     className="mt-12 max-w-3xl mx-auto bg-brand-secondary/10 border border-brand-secondary/30 rounded-2xl p-8 text-center"
                 >
                     <p className="text-lg text-gray-300">
-                        <span className="text-brand-secondary font-bold">No middleman.</span> Your entry fees go into a digital pot that math controls, not a person. When the round ends, the winner gets paid automatically. No trust required.
+                        <span className="text-brand-secondary font-bold">No middleman.</span> Round entries go into a prize pool that math controls, not a person. When the round ends, settlement happens automatically. No trust required.
                     </p>
                 </motion.div>
             </div>

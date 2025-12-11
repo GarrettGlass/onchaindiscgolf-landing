@@ -6,8 +6,8 @@ import { Zap, Key, Shield } from "lucide-react";
 const features = [
     {
         icon: <Zap className="w-12 h-12 text-[#F7931A]" />, // Bitcoin orange
-        title: "Win = Get Paid. Instantly.",
-        description: "Lowest score wins. Money hits your phone the second the round ends. No IOUs, no 'I'll pay you next time', no payment app delays. Just play and get paid.",
+        title: "Instant Round Settlement",
+        description: "Lowest score wins. Settlement hits your phone the second the round ends. No IOUs, no 'I'll pay you next time', no payment app delays. Just play and settle up automatically.",
     },
     {
         icon: <Key className="w-12 h-12 text-[#8B5CF6]" />, // Nostr purple

@@ -11,7 +11,7 @@ const faqs = [
     },
     {
         question: "Is this safe? Where's my money?",
-        answer: "Your balance is stored as Cashu eCash tokens on your phone, protected by your secret key. Currently, we use a third-party Cashu mint (Minibits) to issue tokens—so you're trusting them to honor redemptions. This is similar to trusting a bank, but with better privacy. We're working toward more self-custodial options. For now: don't store more than you're willing to lose, and always back up your secret key!"
+        answer: "Your balance is stored in a self-custodial Lightning wallet powered by Breez SDK, right on your phone. You control your funds—no third party holds your money. Your Lightning address (yourname@breez.tips) lets you receive payments instantly. Just remember to back up your secret key!"
     },
     {
         question: "What if I want to cash out to regular dollars?",
@@ -19,7 +19,7 @@ const faqs = [
     },
     {
         question: "What's the catch?",
-        answer: "There isn't one. Bitcoin transactions have small network fees (usually a few cents), but there are no subscriptions, no account minimums, no hidden charges. What you win is what you get, minus tiny network fees."
+        answer: "There isn't one. Bitcoin transactions have small network fees (usually a few cents), but there are no subscriptions, no account minimums, no hidden charges. What you earn is what you keep, minus tiny network fees."
     },
 ];
 
@@ -38,9 +38,9 @@ const resources = [
     },
     {
         icon: <Lock className="w-10 h-10 text-brand-primary" />,
-        title: "Cashu",
-        description: "A free and open-source Chaumian Ecash protocol for privacy and scalability.",
-        link: "https://cashu.space",
+        title: "Breez SDK",
+        description: "Self-custodial Lightning infrastructure that powers your in-app wallet.",
+        link: "https://breez.technology",
     },
     {
         icon: <Network className="w-10 h-10 text-[#8e44ad]" />,
